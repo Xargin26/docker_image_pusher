@@ -1,4 +1,1 @@
-jamesits/dst-server:nightly
-jamesits/dst-server:latest
-jamesits/dst-server:vanilla
-jamesits/dst-server:steamcmd-rebase
+openjdk:17
