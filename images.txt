@@ -1,1 +1,1 @@
-kagurazakanyaa/palworld
+thijsvanloef/palworld-server-docker:latest
