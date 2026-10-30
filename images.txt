@@ -1,1 +1,1 @@
-itzg/minecraft-server:latest
+vinanrra/7dtd-server:latest
